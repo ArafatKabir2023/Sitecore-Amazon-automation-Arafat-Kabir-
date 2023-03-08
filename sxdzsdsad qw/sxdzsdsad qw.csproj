@@ -1,0 +1,21 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net7.0</TargetFramework>
+    <RootNamespace>sxdzsdsad_qw</RootNamespace>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Include="C:\Users\bdxxb\Downloads\Arafat Kabir - SItecore- Amazon automation\Program.cs" Link="Program.cs" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="MSTest.TestFramework" Version="3.0.2" />
+    <PackageReference Include="Selenium.Support" Version="4.8.1" />
+    <PackageReference Include="Selenium.WebDriver" Version="4.8.1" />
+  </ItemGroup>
+
+</Project>
